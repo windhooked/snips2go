@@ -7,6 +7,6 @@ This started out as a collection of simple coding challenges in Golang, but it m
 |Trees, Tries, & Graphs | Depth-First  Search  | Memory  (Stack vs. Heap) |
 |Stacks & Queues | Binary  Search  Recursion |
 |Heaps | Merge  Sort  | Dynamic  Programming  |
-|Vectors/ArrayLists | Quick  Sort  Big  0 Time &  Space  |
+|Vectors/ArrayLists | Quick  Sort  |Big  0 Time &  Space  |
 | Hash Tables | |
 
