@@ -1,5 +1,5 @@
 # goriddles
-Small simple coding challenges in Golang
+This started out as a collection of simple coding challenges in Golang, but it might be a good idea to extend it to other popular languages, and time my implementation time.
 
 |Data  Structures  | Algorithms | Concepts |
 | --- | --- | --- |
