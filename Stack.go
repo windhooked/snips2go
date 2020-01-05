@@ -36,6 +36,6 @@ func (s *Stack) Pop() int {
 func main() {
 	LListLifo()
 	s := new(Stack)
-	s.Push(1)
-	s.Pop()
+        s.Push(9)
+	fmt.Printf("%d\n", s.Pop()
 }
