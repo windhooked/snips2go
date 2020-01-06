@@ -1,7 +1,7 @@
 # goriddles
 This started out as a collection of sofving simple problems with data structurs and algorithms in Golang. For data structures in c look at my implementations in github.com/windhooked/hdw_libc
 
-|Data  Structures  | Golang | 
+|Data  Structures  | Golang | |
 | --- | --- | --- | 
 |Linked  Lists  |||
 |Trees, Tries, & Graphs |||
@@ -9,7 +9,7 @@ This started out as a collection of sofving simple problems with data structurs 
 |Heaps | ||
 |Vectors/ArrayLists |||
 
-| Algorithms | Golang | 
+| Algorithms | Golang | |
 | --- | --- | --- | 
 Breadth-First Search |||
 Depth-First  Search  | ||
@@ -19,7 +19,7 @@ Quick  Sort  |||
 | Hash Tables | ||
 
 
-| Concepts |Golang | 
+| Concepts |Golang | |
 | --- | --- | --- | 
 Bit     Manipulation  |||
 Memory  (Stack vs. Heap) |||
